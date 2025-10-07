@@ -1,4 +1,4 @@
-# 🧠 Bitt Labs — Developer Training Initiative
+# 🧠 Bit Labs — Developer Training Initiative
 
 **Bitt Labs** is a small developer mentorship program led by [Amrit Paudel](https://github.com/4mrit) & [Prem Gautam](https://github.com/pray3m), focused on building strong foundations in real-world software development through weekly tasks, code reviews, and guided projects.
 
