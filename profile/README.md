@@ -18,6 +18,12 @@ Each week covers focused goals, practical tasks, and code organization exercises
 
 ---
 
+### 💻 Sample Projects
+Explore example repositories built during the program:
+ - More Projects Comming Soon !!
+
+---
+
 ### 👥 Mentorship
 Led by
 [Amrit Paudel](https://github.com/4mrit), Software Developer with 3+ years of experience in full-stack development (.NET, Blazor, React).  
