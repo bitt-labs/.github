@@ -25,7 +25,8 @@ Explore example repositories built during the program:
 ---
 
 ### 👥 Mentorship
-Led by
+Led by:
+
 [Amrit Paudel](https://github.com/4mrit), Software Developer with 3+ years of experience in full-stack development (.NET, Blazor, React).  
 [Prem Gautam](https://github.com/pray3m), Software Developer with 2+ years of experience in full-stack development (NEXT, Express, React).  
 Goal: to build disciplined developers ready for production-grade environments.
